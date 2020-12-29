@@ -27,9 +27,11 @@ Interative Web App: AWS Lambda and AWS API Gateway
 
 
 ## Selected Results <a name="results"></a>
+### Positive Review
+![Positive Review](https://github.com/elleooh/IMDB_sentiment_analysis_webapp/blob/main/website/screenshot/LOR-Positive.png)
 
-[image1]: ./website/screenshot/LOR-Positive.png "Positive Review"
-[image2]: ./website/screenshot/StarWar-Negative.png "Negative Review"
+### Negative Review
+![Negative Review](https://github.com/elleooh/IMDB_sentiment_analysis_webapp/blob/main/website/screenshot/StarWar-Negative.png)
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
 
